@@ -8,6 +8,19 @@
 
 ---
 
+#### Target: way to go
+
+- [x] Java Basic
+- [ ] Cpp Basic
+- [ ] Python Basic
+- [ ] Swift Basic
+- [ ] DSAA
+- [ ] ML
+- [ ] ...
+
+
+---
+
 😶 Kaggle [@ChrisHZA](https://www.kaggle.com/chrishza)
 
 😶‍🌫️ LeetCode [@Chris](https://leetcode-cn.com/u/chris-eh/)
