@@ -8,12 +8,12 @@
 
 ---
 
-#### Target: way to go
+#### Target: Way to go
 
-- [x] Java Basic
-- [ ] Cpp Basic
-- [ ] Python Basic
-- [ ] Swift Basic
+- [x] Java (Basic)
+- [ ] Cpp (Basic)
+- [ ] Python (Basic)
+- [ ] Swift (Basic)
 - [ ] DSAA
 - [ ] ML
 - [ ] ...
