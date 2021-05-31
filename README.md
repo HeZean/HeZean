@@ -13,7 +13,10 @@
 - [x] Java (Basic)
 - [ ] Cpp (Basic)
 - [ ] Python (Basic)
+- [ ] Cpp (Advanced)
+- [ ] Go (Basic)
 - [ ] Swift (Basic)
+- [ ] Java (Advanced)
 - [ ] DSAA
 - [ ] ML
 - [ ] ...
@@ -24,3 +27,5 @@
 😶 Kaggle [@ChrisHZA](https://www.kaggle.com/chrishza)
 
 😶‍🌫️ LeetCode [@Chris](https://leetcode-cn.com/u/chris-eh/)
+
+😮 Topcoder [@SUSTCat](https://www.topcoder.com/members/SUSTCat)
