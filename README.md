@@ -2,9 +2,9 @@
 
 #### 无论什么时候，都要看着前方，满怀希望就会所向披靡。
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeZean&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeZean&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeZean&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeZean&layout=compact)
 
 ---
 
