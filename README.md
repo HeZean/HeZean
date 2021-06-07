@@ -13,12 +13,11 @@
 - [x] Java (Basic)
 - [ ] Cpp (Basic)
 - [ ] Python (Basic)
-- [ ] Cpp (Advanced)
 - [ ] Go (Basic)
 - [ ] Swift (Basic)
-- [ ] Java (Advanced)
 - [ ] DSAA
 - [ ] ML
+- [ ] Docker
 - [ ] ...
 
 
