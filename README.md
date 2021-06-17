@@ -17,7 +17,7 @@
 - [ ] Swift (Basic)
 - [ ] DSAA
 - [ ] ML
-- [ ] Docker
+- [x] Docker (Basic Appl.)
 - [ ] ...
 
 
